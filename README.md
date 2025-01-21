@@ -1,25 +1,29 @@
-<h1 align="center"> HulyssesLinks </h1>
+# Hulysses Links
 
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;</a>
-</p>
+## 📋 Sobre o projeto
 
-<br>
+O projeto consiste em um agregador de links para usar como cartão de visitas online.
 
-<p align="center">
-  <img alt="Projeto HulyssesLinks" src=".github/Cover.png" width="100%">
-</p>
+<div align="center">
+    <img alt="Projeto HulyssesLinks" src="./assets/images/cover.png">
+</div
+
+#
+
+## 🌐 Deploy
+
+Link: https://hulysses.github.io/links/
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+As seguintes tecnologias foram utilizadas no desenvolvimento do projeto:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
-- Git e Github
-- Figma
 
-## 💻 Projeto
+## 👨‍💻 Autor
 
-O HulyssesLinks é um agregador de links para usar como cartão de visitas online.
+Feito com ❤️ por Hulysses.
+
+- [LinkedIn](https://www.linkedin.com/in/hulysses)
